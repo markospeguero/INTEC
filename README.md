@@ -1,0 +1,2 @@
+# INTEC
+Diplomado de Intec
